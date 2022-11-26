@@ -4,8 +4,10 @@ import About from './Pages/About'
 import Footer from './Pages/Footer'
 import Header from './Pages/Header'
 import Skills from './Pages/Skills'
-// import Testimonials from './Pages/Testimonials'
+ import Testimonials from './Pages/Testimonials'
 import Works from './Pages/Works'
+
+// ........
 
 
 const Index = () => {
@@ -16,7 +18,7 @@ const Index = () => {
         <About />
         <Works />
         <Skills />
-        {/* <Testimonials /> */}
+        <Testimonials />
         <Footer />
 
     </div>
