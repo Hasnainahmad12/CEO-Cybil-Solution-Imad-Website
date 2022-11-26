@@ -7,7 +7,6 @@ import Skills from './Pages/Skills'
  import Testimonials from './Pages/Testimonials'
 import Works from './Pages/Works'
 
-// ........
 
 
 const Index = () => {
